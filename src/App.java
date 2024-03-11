@@ -1,4 +1,4 @@
-//Algoritmo de busqueda binaria en java
+//Algoritmo de busqueda binaria
 
 import java.util.Arrays;
 import java.util.Scanner;
